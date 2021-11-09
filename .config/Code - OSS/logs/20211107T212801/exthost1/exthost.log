@@ -1,0 +1,73 @@
+[2021-11-07 21:28:03.150] [exthost] [info] extension host started
+[2021-11-07 21:28:03.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-07 21:28:03.179] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-11-07 21:28:03.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-07 21:28:03.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-11-07 21:28:03.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-07 21:28:03.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-11-07 21:28:03.226] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-07 21:28:03.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-07 21:28:03.345] [exthost] [info] eager extensions activated
+[2021-11-07 21:28:03.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-07 21:28:03.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-07 21:28:03.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-07 21:28:03.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-07 21:28:26.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-07 21:28:26.594] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-11-07 21:28:26.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-07 21:28:26.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extensionEditingMain
+[2021-11-07 21:28:26.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-07 21:28:26.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-11-07 21:28:26.676] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-07 21:28:26.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/npmMain
+[2021-11-07 21:30:14.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-11-07 21:30:14.108] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-11-07 21:45:58.341] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-07 21:45:59.348] [exthost] [info] exiting with code 0
+[2021-11-07 21:46:00.320] [exthost] [info] extension host started
+[2021-11-07 21:46:00.320] [exthost] [info] Skipping acquiring lock for /home/tilen/.config/Code - OSS/User/workspaceStorage/6eb499924a656278e429d746c9b3daa0.
+[2021-11-07 21:46:00.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-07 21:46:00.352] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-11-07 21:46:00.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-07 21:46:00.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-11-07 21:46:00.369] [exthost] [info] ExtensionService#_doActivateExtension redhat.java, startup: true, activationEvent: 'workspaceContains:.classpath'
+[2021-11-07 21:46:00.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension
+[2021-11-07 21:46:00.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-07 21:46:00.497] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-11-07 21:46:00.546] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-07 21:46:00.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-07 21:46:00.838] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-11-07 21:46:02.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-07 21:46:02.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-11-07 21:46:02.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-07 21:46:02.501] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-11-07 21:46:02.518] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-07 21:46:02.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-11-07 21:46:02.528] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'workspaceContains:.classpath'
+[2021-11-07 21:46:02.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tilen/.vscode-oss/extensions/vscjava.vscode-java-dependency-0.18.8/main.js
+[2021-11-07 21:46:02.608] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'workspaceContains:.classpath', root cause: vscjava.vscode-java-test
+[2021-11-07 21:46:02.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tilen/.vscode-oss/extensions/vscjava.vscode-java-debug-0.35.0/dist/extension
+[2021-11-07 21:46:02.738] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-11-07 21:46:06.116] [exthost] [info] eager extensions activated
+[2021-11-07 21:46:06.118] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'workspaceContains:.classpath'
+[2021-11-07 21:46:06.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tilen/.vscode-oss/extensions/vscjava.vscode-java-test-0.32.0/main.js
+[2021-11-07 21:46:06.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-07 21:46:06.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-07 21:46:06.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-07 21:46:06.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-07 21:46:08.711] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+[2021-11-07 21:46:08.711] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tilen/.vscode-oss/extensions/vscjava.vscode-java-pack-0.18.6/out/extension
+[2021-11-07 21:46:08.948] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 21:46:08.949] [exthost] [error] Error: The request (id: 6, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:461:21)
+[2021-11-07 21:47:30.730] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-07 21:47:30.732] [exthost] [error] Error: The request (id: 45, method: 'textDocument/hover') has been cancelled
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:461:21)
+[2021-11-07 21:47:33.766] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-07 21:47:34.775] [exthost] [info] exiting with code 0

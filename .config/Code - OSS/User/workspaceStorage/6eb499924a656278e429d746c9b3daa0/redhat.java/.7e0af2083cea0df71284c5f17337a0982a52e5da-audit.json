@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/tilen/.config/Code - OSS/User/workspaceStorage/6eb499924a656278e429d746c9b3daa0/redhat.java/.7e0af2083cea0df71284c5f17337a0982a52e5da-audit.json",
+    "files": [
+        {
+            "date": 1636317960470,
+            "name": "/home/tilen/.config/Code - OSS/User/workspaceStorage/6eb499924a656278e429d746c9b3daa0/redhat.java/client.log.2021-11-07",
+            "hash": "1f1b7eaea7a611fc74509296222158c2"
+        },
+        {
+            "date": 1636377108897,
+            "name": "/home/tilen/.config/Code - OSS/User/workspaceStorage/6eb499924a656278e429d746c9b3daa0/redhat.java/client.log.2021-11-08",
+            "hash": "43a4c3a2900c6ee5609b8eab608e62c4"
+        }
+    ]
+}

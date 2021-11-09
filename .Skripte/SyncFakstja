@@ -1,0 +1,6 @@
+#!/bin/bash
+if ping -c 1 gimplscraft.ddns.net &> /dev/null
+then
+    rsync -e 'ssh -p 505' -aP /home/tilen/Dokumenti/Faks/ tiggax@gimplscraft.ddns.net:/mnt/Data/Dokumenti/Šola/Faks/
+    rsync -e 'ssh -p 505' -aP /home/tilen/Programing/ tiggax@gimplscraft.ddns.net:/mnt/Data/Programing/
+fi

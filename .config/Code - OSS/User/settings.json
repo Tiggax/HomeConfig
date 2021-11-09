@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.preferredDarkColorTheme": "Default High Contrast"
+}

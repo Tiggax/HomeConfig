@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/home/tilen/.config/Code - OSS/User/workspaceStorage/6eb499924a656278e429d746c9b3daa0/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+676911311.index
+3942949474.index
+110019480.index
+845364950.index
+3842426239.index
+1865797976.index

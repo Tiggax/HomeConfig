@@ -1,0 +1,3 @@
+#!/bin/bash
+kcmshell5 kwinscripts
+exit

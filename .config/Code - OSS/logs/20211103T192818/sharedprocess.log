@@ -1,0 +1,32 @@
+[2021-11-03 19:28:20.648] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-debug /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-debug-0.28.0
+[2021-11-03 19:28:20.649] [sharedprocess] [info] Deleted from disk redhat.java /home/tilen/.vscode-oss/extensions/redhat.java-0.68.0
+[2021-11-03 19:28:20.653] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-dependency /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-dependency-0.13.0
+[2021-11-03 19:28:20.658] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-test /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-test-0.24.2
+[2021-11-03 19:28:25.656] [sharedprocess] [info] Installing extension: redhat.java
+[2021-11-03 19:28:25.659] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2021-11-03 19:28:25.801] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2021-11-03 19:28:25.871] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-11-03 19:28:28.248] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-dependency-0.18.8
+[2021-11-03 19:28:28.381] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.518ca0ef-04c6-477d-9921-cbd2a8b6268b: vscjava.vscode-java-dependency
+[2021-11-03 19:28:28.390] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-dependency-0.18.8
+[2021-11-03 19:28:28.394] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-dependency
+[2021-11-03 19:28:28.401] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-dependency
+[2021-11-03 19:28:30.119] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-debug-0.35.0
+[2021-11-03 19:28:30.238] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.cac8109b-4114-437b-8b2f-bfe57f43d431: vscjava.vscode-java-debug
+[2021-11-03 19:28:30.250] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-debug-0.35.0
+[2021-11-03 19:28:30.254] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-debug
+[2021-11-03 19:28:30.260] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-debug
+[2021-11-03 19:28:30.520] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-11-03 19:28:30.647] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-test-0.32.0
+[2021-11-03 19:28:30.799] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.f276d21c-33ec-4592-a0f1-13e00a8fcc8e: vscjava.vscode-java-test
+[2021-11-03 19:28:30.808] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-test-0.32.0
+[2021-11-03 19:28:30.812] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-test
+[2021-11-03 19:28:30.817] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-test
+[2021-11-03 19:28:50.528] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-11-03 19:28:50.529] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-11-03 19:28:52.789] [sharedprocess] [info] Downloaded extension: redhat.java /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/redhat.java-1.0.0
+[2021-11-03 19:28:53.781] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.44af96d7-9bfb-42c9-9959-3c783da4e446: redhat.java
+[2021-11-03 19:28:53.793] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0
+[2021-11-03 19:28:53.796] [sharedprocess] [info] Extracting completed. redhat.java
+[2021-11-03 19:28:53.801] [sharedprocess] [info] Extension installed successfully: redhat.java
+[2021-11-03 19:29:00.527] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

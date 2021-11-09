@@ -1,0 +1,20 @@
+[2021-11-07 21:28:02.985] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-debug /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-debug-0.34.0
+[2021-11-07 21:28:02.987] [sharedprocess] [info] Deleted from disk redhat.java /home/tilen/.vscode-oss/extensions/redhat.java-0.81.0
+[2021-11-07 21:28:02.990] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-dependency /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-dependency-0.18.6
+[2021-11-07 21:28:02.991] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-test /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-test-0.30.1
+[2021-11-07 21:28:12.904] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-11-07 21:28:32.896] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-11-07 21:28:32.896] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-11-07 21:28:42.904] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-11-07 21:29:59.285] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2021-11-07 21:30:01.231] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-maven-0.21.2
+[2021-11-07 21:30:01.444] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.fded2ebd-889d-4a8b-b10b-40d93966f71e: vscjava.vscode-maven
+[2021-11-07 21:30:01.450] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-maven-0.21.2
+[2021-11-07 21:30:01.452] [sharedprocess] [info] Extracting completed. vscjava.vscode-maven
+[2021-11-07 21:30:01.454] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-maven
+[2021-11-07 21:30:06.352] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2021-11-07 21:30:07.992] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-pack-0.18.6
+[2021-11-07 21:30:08.088] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.110470b5-22bf-4575-876b-347abc6942cd: vscjava.vscode-java-pack
+[2021-11-07 21:30:08.091] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-pack-0.18.6
+[2021-11-07 21:30:08.092] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-pack
+[2021-11-07 21:30:08.093] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-pack

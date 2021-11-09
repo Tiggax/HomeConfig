@@ -1,0 +1,11 @@
+[2021-11-08 14:11:47.040] [renderer1] [info] Starting extension host with pid 2983.
+[2021-11-08 14:11:47.040] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 31 ms.
+[2021-11-08 14:11:47.481] [renderer1] [error] [Extension Host] (node:2983) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-08 14:11:54.006] [renderer1] [error] Internal error.: Error: Internal error.
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:461:21)
+[2021-11-08 14:12:44.584] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.C.onerror (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:85:24735)

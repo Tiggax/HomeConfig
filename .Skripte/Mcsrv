@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Povezujem se na Gimplcraft..."
+ssh -p 506 admin@gimplcraft.ddns.net

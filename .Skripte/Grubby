@@ -1,0 +1,19 @@
+#!/bin/bash
+
+sudo nano /etc/default/grub
+while true; do
+read -p "update Grub? (Y/N)" yn
+    case $yn in
+        [Yy]* ) sudo grub-mkconfig -o /boot/grub/grub.cfg; break;;
+        [Nn]* ) exit;;
+        * ) echo "nvm ka hocs";;
+    esac
+done
+while true; do
+read -p "Reboot? (Y/N)" y
+    case $y in
+        [Yy]* ) reboot; break;;
+        [Nn]* ) exit;;
+        * ) echo "nvm ka hocs";;
+    esac
+done

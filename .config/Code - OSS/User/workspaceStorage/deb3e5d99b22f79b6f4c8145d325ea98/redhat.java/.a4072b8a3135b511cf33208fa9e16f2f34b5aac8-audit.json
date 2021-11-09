@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/tilen/.config/Code - OSS/User/workspaceStorage/deb3e5d99b22f79b6f4c8145d325ea98/redhat.java/.a4072b8a3135b511cf33208fa9e16f2f34b5aac8-audit.json",
+    "files": [
+        {
+            "date": 1602690514647,
+            "name": "/home/tilen/.config/Code - OSS/User/workspaceStorage/deb3e5d99b22f79b6f4c8145d325ea98/redhat.java/client.log.2020-10-14",
+            "hash": "ca87dc1ad40f12e243dd34a522adaea2"
+        }
+    ]
+}

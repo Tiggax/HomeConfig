@@ -1,0 +1,22 @@
+[2021-11-08 14:11:48.322] [exthost] [info] Extension host with pid 2983 started
+[2021-11-08 14:11:48.322] [exthost] [info] Skipping acquiring lock for /home/tilen/.config/Code - OSS/User/workspaceStorage/6eb499924a656278e429d746c9b3daa0.
+[2021-11-08 14:11:48.394] [exthost] [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java', root cause: vscjava.vscode-java-test
+[2021-11-08 14:11:48.519] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java', root cause: vscjava.vscode-java-test
+[2021-11-08 14:11:48.579] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+[2021-11-08 14:11:48.648] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+[2021-11-08 14:11:48.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-08 14:11:48.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-08 14:11:48.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-08 14:11:49.244] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-11-08 14:11:49.347] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2021-11-08 14:11:52.892] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+[2021-11-08 14:11:52.996] [exthost] [info] Eager extensions activated
+[2021-11-08 14:11:52.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-08 14:11:54.003] [exthost] [error] [redhat.java] provider FAILED
+[2021-11-08 14:11:54.005] [exthost] [error] Error: Internal error.
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:461:21)
+[2021-11-08 14:16:27.650] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-08 14:16:28.667] [exthost] [info] Extension host with pid 2983 exiting with code 0

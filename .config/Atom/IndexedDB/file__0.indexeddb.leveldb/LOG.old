@@ -1,0 +1,12 @@
+2021/11/09-13:49:06.337 2c62 Reusing MANIFEST /home/tilen/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-13:49:06.337 2c62 Recovering log #1437
+2021/11/09-13:49:06.340 2c62 Reusing old log /home/tilen/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/001437.log 
+2021/11/09-13:49:07.947 2d4a Compacting 1@1 + 1@2 files
+2021/11/09-13:49:07.967 2d4a Generated table #1442@1: 332 keys, 1599529 bytes
+2021/11/09-13:49:07.967 2d4a Compacted 1@1 + 1@2 files => 1599529 bytes
+2021/11/09-13:49:07.968 2d4a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/09-13:49:12.729 2d4a Level-0 table #1444: started
+2021/11/09-13:49:12.743 2d4a Level-0 table #1444: 1531446 bytes OK
+2021/11/09-13:49:12.745 2d4a Delete type=0 #1437
+2021/11/09-13:49:12.745 2d4a Delete type=2 #1440
+2021/11/09-13:49:12.745 2d4a Delete type=2 #1417

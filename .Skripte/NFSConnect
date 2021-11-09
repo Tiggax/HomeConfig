@@ -1,0 +1,30 @@
+#!/bin/bash
+connect () {
+
+echo "Povezava deluje, mountam"
+    sudo mount -t nfs 192.168.60.63:/mnt/Data /home/tilen/Server/
+    if [ $? -eq 0 ]
+    then
+        echo "uspešno mountan"
+    else
+        echo "šhit, napaka pri mountanju"
+    fi
+}
+a=1
+for (( ;1 < 2;  ))
+do
+    echo "--------------------------"
+    echo "Čekiranje povezave..."
+    ping 192.168.60.63 -c 3
+    if [ $? -eq 0 ]
+    then
+        connect
+        break
+    else
+        echo "povezava ni bila vzpostavljena."
+        echo "probavam ponovno..."
+        sleep 5
+    fi
+done
+read -p "za zaključek pritisni enter." a
+sudo umount 192.168.60.63:/mnt/Data

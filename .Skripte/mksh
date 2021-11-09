@@ -1,0 +1,26 @@
+#!/bin/bash
+
+if [ $# -ne 0 ]
+then
+    fl=$1
+    touch $fl
+    echo '#!/bin/bash' >> $fl
+    chmod 755 $fl
+    kate $fl # <---- tu zamenjaš s svojim programom.
+else
+echo Error! dopiši željeno ime nove datoteke!
+fi
+echo "Ustvaril $fl, I serve the soviet Union (☭ ͜ʖ ☭)"
+echo "©Gimpl.co"
+
+# za to da program deluje, potrebuje program kate <--- dober urejevalnik, priporočam, če pa hočeš uporabljati
+# svoj program pa samo zamenjaj kate s imenom svojega programa, in bash skripta bi morala delati normalno.
+
+# --------------------------NARDIŠ X GLOBALNO-----------------------------------------------------------------
+# lahko se datoteko edita, da se jo exicuta kot katerkoli command.
+# potrebno je ustvariti direktorij (folder) kjer bodo te željene .sh datoteke (če v prihodnosti se ksno hoeš)
+# in v datoteki /home/#tvojusername#/.bashrc na koncu file dodati:
+# export PATH="/POT/DO/FOLDERJA:$PATH"
+#  nato shraniš, in executaš:
+# source ~/.bashrc
+# to je to.

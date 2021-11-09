@@ -1,0 +1,25 @@
+[2021-08-22 21:26:39.233] [sharedprocess] [info] Installing extension: redhat.java
+[2021-08-22 21:26:39.234] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2021-08-22 21:26:39.234] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-08-22 21:26:39.235] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2021-08-22 21:26:40.035] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-dependency-0.18.6
+[2021-08-22 21:26:40.134] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.f08b6be6-5b68-4bf7-9306-e0d9122c4aab: vscjava.vscode-java-dependency
+[2021-08-22 21:26:40.138] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-dependency-0.18.6
+[2021-08-22 21:26:40.140] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency
+[2021-08-22 21:26:40.147] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2021-08-22 21:26:40.537] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-test-0.30.1
+[2021-08-22 21:26:40.640] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.4fab90bc-ed7f-4b6e-87d8-8f44c1a3955c: vscjava.vscode-java-test
+[2021-08-22 21:26:40.644] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-test-0.30.1
+[2021-08-22 21:26:40.648] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2021-08-22 21:26:40.696] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2021-08-22 21:26:40.765] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/vscjava.vscode-java-debug-0.34.0
+[2021-08-22 21:26:40.824] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.085e9f71-50de-4a14-917a-abb0f53b836b: vscjava.vscode-java-debug
+[2021-08-22 21:26:40.828] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/vscjava.vscode-java-debug-0.34.0
+[2021-08-22 21:26:40.830] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2021-08-22 21:26:40.835] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2021-08-22 21:26:51.021] [sharedprocess] [info] Downloaded extension: redhat.java /home/tilen/.config/Code - OSS/CachedExtensionVSIXs/redhat.java-0.81.0
+[2021-08-22 21:26:51.861] [sharedprocess] [info] Extracted extension to /home/tilen/.vscode-oss/extensions/.0e0f6e49-9ad0-4403-850a-33fe42d5f3a3: redhat.java
+[2021-08-22 21:26:51.875] [sharedprocess] [info] Renamed to /home/tilen/.vscode-oss/extensions/redhat.java-0.81.0
+[2021-08-22 21:26:51.878] [sharedprocess] [info] Installation completed. redhat.java
+[2021-08-22 21:26:51.889] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2021-08-22 21:27:17.085] [sharedprocess] [info] Starting to clean up unused language packs.

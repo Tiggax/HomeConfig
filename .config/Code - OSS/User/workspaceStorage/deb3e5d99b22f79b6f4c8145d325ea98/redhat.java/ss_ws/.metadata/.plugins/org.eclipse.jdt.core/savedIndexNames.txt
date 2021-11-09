@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/tilen/.config/Code - OSS/User/workspaceStorage/deb3e5d99b22f79b6f4c8145d325ea98/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

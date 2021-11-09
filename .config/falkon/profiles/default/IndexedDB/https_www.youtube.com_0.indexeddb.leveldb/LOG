@@ -1,0 +1,7 @@
+2021/02/07-01:23:44.908 10ddd Reusing MANIFEST /home/tilen/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/07-01:23:44.908 10ddd Recovering log #3
+2021/02/07-01:23:44.909 10ddd Reusing old log /home/tilen/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/02/07-01:24:17.778 10e9b Level-0 table #5: started
+2021/02/07-01:24:17.784 10e9b Level-0 table #5: 27906 bytes OK
+2021/02/07-01:24:17.785 10e9b Delete type=0 #3
+2021/02/07-01:24:17.786 10e9b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

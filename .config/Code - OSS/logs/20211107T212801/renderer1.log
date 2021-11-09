@@ -1,0 +1,30 @@
+[2021-11-07 21:28:02.638] [renderer1] [info] Starting extension host with pid 15490.
+[2021-11-07 21:28:03.047] [renderer1] [error] [Extension Host] (node:15490) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-07 21:28:09.852] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-11-07 21:28:09.853] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-11-07 21:28:09.853] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-11-07 21:28:10.773] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-11-07 21:28:10.775] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-11-07 21:28:10.775] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-11-07 21:28:20.729] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-11-07 21:28:20.730] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-11-07 21:28:20.731] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-11-07 21:28:20.881] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-11-07 21:28:20.881] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-11-07 21:28:33.654] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2021-11-07 21:28:33.661] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2021-11-07 21:28:33.662] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2021-11-07 21:45:59.571] [renderer1] [info] Starting extension host with pid 18234.
+[2021-11-07 21:46:00.163] [renderer1] [error] [Extension Host] (node:18234) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-07 21:46:09.034] [renderer1] [error] The request (id: 6, method: 'textDocument/documentSymbol') has been cancelled: Error: The request (id: 6, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:461:21)
+[2021-11-07 21:47:30.734] [renderer1] [error] The request (id: 45, method: 'textDocument/hover') has been cancelled: Error: The request (id: 45, method: 'textDocument/hover') has been cancelled
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:894993
+	at /home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895287
+	at Immediate.<anonymous> (/home/tilen/.vscode-oss/extensions/redhat.java-1.0.0/dist/extension.js:2:895652)
+	at processImmediate (internal/timers.js:461:21)

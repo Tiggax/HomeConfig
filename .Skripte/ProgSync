@@ -1,0 +1,5 @@
+#!/bin/bash
+if ping -c 1 93.103.74.231 &> /dev/null
+then
+    rsync -e 'ssh -p 505' -aP /home/tilen/Programing/ tiggax@93.103.74.231:/home/tiggax/Programing/
+fi

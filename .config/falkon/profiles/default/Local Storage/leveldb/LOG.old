@@ -1,0 +1,5 @@
+2021/11/09-14:19:08.150 3e5f Reusing MANIFEST /home/tilen/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2021/11/09-14:19:08.150 3e5f Recovering log #8
+2021/11/09-14:19:08.153 3e5f Level-0 table #10: started
+2021/11/09-14:19:08.157 3e5f Level-0 table #10: 140010 bytes OK
+2021/11/09-14:19:08.159 3e5f Delete type=0 #8
